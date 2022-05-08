@@ -22,19 +22,19 @@
 
 
 
-![Getting Started](./tut_pic/a1.jpg)
+![Getting Started](./tut_pic/a1.JPG)
 
 
 *Figure 1* .*After running EEG.mat, the software is run and we see the following image*
 
 
 ### Now in this step we have to load the desired data in EEGsig
-![Getting Started](./tut_pic/a2.jpg)
+![Getting Started](./tut_pic/a2.JPG)
 
 *Figure 2* .*To load the data, press the button marked with a red arrow*
 ![Getting Started](./tut_pic/Capture2.JPG)
 *Figure 3* .*Then we load the desired data from the data folder*
-![Getting Started](./tut_pic/a4.jpg)
+![Getting Started](./tut_pic/a4.JPG)
 *Figure 4* . *Our data is then displayed automatically*
 
 
@@ -42,17 +42,17 @@
 
 It is important to note that since the frequency range of the EEG signal is between 0.5 and 60 Hz, in order to comply with the Nyquist principle, the data sampling frequency must be more than 2 times 60 Hz, i.e. more than 120 Hz.
 
-![Getting Started](./tut_pic/a5.jpg)
+![Getting Started](./tut_pic/a5.JPG)
 
 *Figure 5* .*After entering the data in the desired location, press the Enter key*
 
 ### Next step is denoise and artifact removal
-![Getting Started](./tut_pic/a7.jpg)
+![Getting Started](./tut_pic/a7.JPG)
 *Figure 6* . *Now we have to select the denoise and artifact removal by selecting it in the red box on the left and then select the desired channel to view each channel in a larger size.*
 
 ### Then it is time to enter the sampling frequency
 
-![Getting Started](./tut_pic/a8.jpg)
+![Getting Started](./tut_pic/a8.JPG)
 *Figure 7* . *Select the desired feature to extract the data and display it*
 
 ## How to use EEGsig classification?
@@ -60,10 +60,10 @@ It is important to note that since the frequency range of the EEG signal is betw
 
 ### First, we have to load the feature data and its corresponding label in the software
 
-![Getting Started](./tut_pic/a11.jpg)
+![Getting Started](./tut_pic/a11.JPG)
 *Figure 8* . *First, we load the feature data by pressing the button marked with a red arrow*
 
-![Getting Started](./tut_pic/a13.jpg)
+![Getting Started](./tut_pic/a13.JPG)
 
 *Figure 9* . *Then, by pressing the button marked with a red arrow, we load the labels*
 
