@@ -19,6 +19,6 @@
 
 
 
-![Getting Started](./tut_pic/a1.JPG)
+![Getting Started](./EEGsig.png)
 
 
