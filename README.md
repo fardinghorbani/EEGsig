@@ -19,6 +19,6 @@
 
 
 
-![Getting Started](./Toolbox Picture/EEGsig0.png)
+![Getting Started](./ToolboxPicture/EEGsig0.png)
 
-![Getting Started](./Toolbox Picture/EEGsig1.png)
+![Getting Started](./ToolboxPicture/EEGsig1.png)
