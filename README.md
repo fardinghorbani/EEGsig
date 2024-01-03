@@ -8,7 +8,7 @@
 
 [EEGsig: an open-source machine learning-based toolbox for EEG signal processing](https://arxiv.org/abs/2010.12877)
 
-### Author : [Fardin Ghorbani](https://scholar.google.com/citations?user=Ld-lFKgAAAAJ&hl=en), [Javad Shabanpour](https://scholar.google.com/citations?user=WLstfRcAAAAJ&hl=en), Sepideh Monjezi, [Hossein Soleimani](https://scholar.google.com/citations?user=fY5IgjcAAAAJ&hl=en), [Soheil Hashemi](https://scholar.google.com/citations?user=N6CGwhMAAAAJ&hl=en), [Ali Abdolali](https://scholar.google.com/citations?user=JYpUTf8AAAAJ&hl=en)
+### Author : [Fardin Ghorbani](https://scholar.google.com/citations?user=Ld-lFKgAAAAJ&hl=en), [Javad Shabanpour](https://scholar.google.com/citations?user=WLstfRcAAAAJ&hl=en), [Sepideh Monjezi](https://scholar.google.com/citations?user=JOXckEEAAAAJ&hl=en), [Hossein Soleimani](https://scholar.google.com/citations?user=fY5IgjcAAAAJ&hl=en), [Soheil Hashemi](https://scholar.google.com/citations?user=N6CGwhMAAAAJ&hl=en), [Ali Abdolali](https://scholar.google.com/citations?user=JYpUTf8AAAAJ&hl=en)
 
 
 
