@@ -18,7 +18,9 @@
 ![](https://img.shields.io/badge/Tutorial-EEGsig-green)
 
 
-
 ![Getting Started](./ToolboxPicture/EEGsig0.png)
 
 ![Getting Started](./ToolboxPicture/EEGsig1.png)
+
+# Contributing
+All improvements or additions are welcome. 
